@@ -1,7 +1,7 @@
 birth-moon
 ==========
 
-someone told me that moon phase affects childbirth (but I don't belive it). This is a silly data driven exploration
+someone told me that moon phase affects childbirth (but I don't believe it). This is a silly data driven exploration
 
 
 The [astral python module](http://pythonhosted.org/astral/module.html) deals nicely with calculating moon phases.
